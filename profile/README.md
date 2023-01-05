@@ -1,4 +1,4 @@
-![الغلاف](profile/cover.png)
+![الغلاف](profile/profile-cover.png)
 
 # الكتب المٌيسّرة
 
