@@ -1,4 +1,4 @@
-![الغلاف](profile/profile-cover.png)
+![الغلاف](https://user-images.githubusercontent.com/7662492/229292091-6b465fe7-93e9-4a04-9f49-5e5c26a8aa9b.png)
 
 # الكتب المٌيسّرة
 
